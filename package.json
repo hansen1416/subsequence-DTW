@@ -1,0 +1,22 @@
+{
+  "name": "subsequence-dtw",
+  "version": "1.0.0",
+  "description": "Javascript implementation of Subsequence DTW Algorithm",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hansen1416/subsequence-DTW.git"
+  },
+  "keywords": [
+    "DTW"
+  ],
+  "author": "hansen1416",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hansen1416/subsequence-DTW/issues"
+  },
+  "homepage": "https://github.com/hansen1416/subsequence-DTW#readme"
+}
